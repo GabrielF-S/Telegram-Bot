@@ -1,0 +1,18 @@
+/sabor1 - Calabresa
+/sabor2 - Mussarela
+/sabor3 - Frango
+/sabor4 - Frango com Catupiry
+/sabor5 - Bahiana
+/sabor6 - Portugues
+/sabor7 - Ceciliana
+/sabor8 - Moda do Chef
+/sabor9 - Moda da Casa
+/sabor10 - Peperoni
+/sabor11 - Jardineira
+/sabor12 - Quatro Queijos
+/sabor13 - Marguerita
+/sabor14 - Chocolate
+/sabor15 - Romeu e Julieta
+/sabor16 - Atum
+/sabor17 - Especial
+/Inicio
